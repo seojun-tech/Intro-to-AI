@@ -9,5 +9,6 @@
 | [`decision_tree_classification`](./decision_tree_classification) | 의사결정나무 분류 — 지니 불순도 직접 구현, 가지치기 |
 | [`kmeans_clustering`](./kmeans_clustering) | K-means 군집화 — 직접 구현을 함수로 일반화(과제), 계층적 군집, 공간 분리 |
 | [`performance_evaluation`](./performance_evaluation) | 성능평가 (Python) — 혼동행렬, 정확도·민감도·특이도·정밀도·NPV·F1 계산(과제), FP/FN 해석 |
+| [`regression`](./regression) | 회귀분석 — 최소제곱법(단순·중회귀), Stepwise 변수 선택(과제), 마력 열 척도 문제 |
 
 폴더 안에 `README.md`가 있는 곳은 파일별 설명과 결과 그림이 정리돼 있다.
