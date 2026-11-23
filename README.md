@@ -11,5 +11,6 @@
 | [`performance_evaluation`](./performance_evaluation) | 성능평가 (Python) — 혼동행렬, 정확도·민감도·특이도·정밀도·NPV·F1 계산(과제), FP/FN 해석 |
 | [`regression`](./regression) | 회귀분석 — 최소제곱법(단순·중회귀), Stepwise 변수 선택(과제), 마력 열 척도 문제 |
 | [`ensemble`](./ensemble) | 앙상블 — 랜덤 포레스트 vs 단일 결정트리, AdaBoost 소득 분류, 불균형 데이터의 재현율 |
+| [`pca_dimensionality_reduction`](./pca_dimensionality_reduction) | 차원축소 (PCA) — 공분산 행렬 직접 계산(과제, Python), PC1·PC2로 랜덤 포레스트, pca_ex.m 정규화 오류 확인 |
 
 폴더 안에 `README.md`가 있는 곳은 파일별 설명과 결과 그림이 정리돼 있다.
