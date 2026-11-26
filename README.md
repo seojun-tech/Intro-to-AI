@@ -12,5 +12,6 @@
 | [`regression`](./regression) | 회귀분석 — 최소제곱법(단순·중회귀), Stepwise 변수 선택, 마력 열 척도 문제 |
 | [`ensemble`](./ensemble) | 앙상블 — 랜덤 포레스트 vs 단일 결정트리, AdaBoost 소득 분류, 불균형 데이터의 재현율 |
 | [`pca_dimensionality_reduction`](./pca_dimensionality_reduction) | 차원축소 (PCA) — 공분산 행렬 직접 계산(Python), PC1·PC2로 랜덤 포레스트, pca_ex.m 정규화 오류 확인 |
+| [`perceptron`](./perceptron) | 퍼셉트론 (Python) — 붓꽃 50개로 확장(과제), 엑셀에서 b 범위 찾기, 엑셀 값으로 시작 vs 난수 시작 학습 비교 |
 
 폴더 안에 `README.md`가 있는 곳은 파일별 설명과 결과 그림이 정리돼 있다.
